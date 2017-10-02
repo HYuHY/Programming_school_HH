@@ -1,0 +1,7 @@
+__pycache__/
+*.sqlite3
+*.project
+*.pydevproject
+list_of_remarkable_numbers.txt
+list_of_NOT_remarkable_numbers.txt
+list_of_not_palindrom_numbers.txt
